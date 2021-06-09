@@ -1,4 +1,9 @@
-.round-pic {
+/*.round-pic {
 		border-radius:  50%;
 
+*/
+
+.img-reduce {
+	border: black 1px solid;
+	width: 1080px;
 }
